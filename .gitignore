@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.git
+
+# Project data
+devinfo
+src/*
+volumes/*
+*/*/.idea
+*/*/volumes
